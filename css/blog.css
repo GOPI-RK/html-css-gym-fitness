@@ -1,0 +1,374 @@
+body{
+    margin:0px;
+
+}
+::selection {
+    background-color: #c7ef00;
+    color: #000000;
+}
+.outerthree{
+    background-image: url("../image/gym-blog-bg-free-img.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.h{
+    background-color:#23424c94; 
+  
+}
+
+.head0{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+.logo{
+margin: 40px 0px;
+}
+
+.menu{
+width:50%;
+margin:20px 0px;
+
+
+}
+
+.menu  li{
+display: inline-block;
+list-style-type:none;
+margin: 5px 30px 5px 0px ;
+padding:20px 0px;
+
+
+}
+.a2:hover{
+color:#c7ef00;
+}
+#a3
+{
+color: #21759b;
+border:1px solid white;
+background-color: white;
+border-radius: 5px;
+padding: 10px 15px;
+}
+#a3:hover{
+background-color: #c7ef00;
+border:1px solid #c7ef00;
+color:black;
+}
+.menu li a{
+text-decoration: none;
+color:#e0e0e0;
+font-family: monospace;
+font-size: 17px;
+font-weight: 600;
+
+}
+#a1{
+color: #c7ef00;
+font-family: monospace;
+font-size: 17px;
+font-weight: 600;
+}
+.card{
+    width: 80%;
+    margin:120px auto 100px auto;
+    background-color: #0b2128b8;
+  
+   
+    
+ 
+ }
+ .out{
+     padding:70px;
+     color: #ffffff;
+
+     
+    
+ }
+ .H1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-transform: uppercase;
+     font-size:50px
+ }
+ .P1{
+     font-size:15px ;
+     line-height: 25px;
+     font-family: monospace;
+ }
+ .part{
+    background-color: #0b2128;
+    margin-top:80px;
+  
+ }
+ .pn0{
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: center;
+ }
+ .pn1{
+     width:40%;
+     background-image:url("../image/gym1-free-img.jpg");
+    
+     background-size: cover;
+    
+     margin-right: 40px;
+     margin-bottom: 40px;
+
+ }
+ .hb{
+background-color:#0b21286e;
+background-size: cover;
+ }
+ .bh{
+    padding: 40px;
+ }
+ .pn2{
+     width:40%;
+     background-image:url("../image/gymblog2-free-img.jpg");
+     
+     background-size: cover;
+    
+     margin-bottom: 40px;
+ }
+ .pn01{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ .pn3{
+    width:40%;
+    background-image:url("../image/gym-blog3-free-img.jpg");
+    background-size: cover;
+    margin-right: 40px;
+
+}
+.pn4{
+    width:40%;
+    background-image:url("../image/gym-blog4-free-img.jpg");
+    background-size: cover;
+  
+}
+.a33:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    color:black;
+    font-family: monospace;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 15px;  font-weight: 600;
+
+}
+.a33
+{
+    color: #21759b;
+    border:1px solid white;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: monospace;
+    text-decoration: none;
+}
+.b1 a{
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase; 
+    text-decoration: none; 
+    margin-bottom: 15px;
+}
+.b2{
+
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+    color:#ffffff;
+    margin-bottom: 15px;
+}
+.b3{
+    color: #ffffff;
+    margin-bottom: 25px;
+    line-height: 25px;
+  font-size: 18px;
+   
+}
+
+.section2{
+    background-image: url("../image/footer-bg-free-img.jpg");
+    background-size: cover;
+    
+
+    
+}
+.hh3{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    color:#c7ef00;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left:0px;
+
+}
+.hh31{
+    font-family: 'Squada One';
+    text-transform: uppercase;
+    color:#c7ef00;
+   margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 40px;   
+}
+.hh32{
+    font-family: 'Squada One';
+    text-transform: uppercase;
+    color:#c7ef00;
+    margin-left:30px;
+    margin-bottom: 40px;   
+}
+.hh33{
+    font-family: 'Squada One';
+    text-transform: uppercase;
+    color:#c7ef00;
+  margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 40px;   
+}
+.hh34{
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    color:#c7ef00;
+    margin-left:40px;
+    margin-bottom: 40px;   
+}
+.sec1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    padding-top:150px;
+  
+ 
+}
+.li1{
+    margin-bottom:20px;
+    list-style-type:none;
+
+}
+.li1>a{
+    text-decoration: none;
+    color:#e0e0e0;
+    font-size:18px;
+   
+}
+.li1>a:hover{
+    color:#c7ef00;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.c1{
+    width:200px;
+    
+}
+.c2{
+    width:208px;
+}
+.c3{
+    width:240px;
+
+}
+.c4{
+    width:208px;
+
+}
+.c5{
+    width:350px;
+}
+.li2{
+    list-style-type:none;  
+    display: inline-block;
+    margin-right:10px;  
+}
+.li2> a{
+   color:#1d1d44;
+}
+.li2 a #i1:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    border-radius:100px;
+    color:black;
+}
+#i1{
+    border:1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius:100px;
+    padding: 12px 13px;
+    line-height: 20px;
+}
+#i2{
+    border:1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius:100px;
+    padding: 12px 18px;
+    line-height: 20px;
+}
+.li2 a #i2:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    border-radius:100px;
+    color:black;
+}
+#i3,#i4,#i5{
+    border:1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius:100px;
+    padding: 12px 15px;
+    line-height: 20px;
+}
+.li2 a #i3:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    border-radius:100px;
+    color:black;
+}
+.li2 a #i4:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    border-radius:100px;
+    color:black;
+}
+.li2 a #i5:hover{
+    background-color: #c7ef00;
+    border:1px solid #c7ef00;
+    border-radius:100px;
+    color:black;
+}
+#top{
+    background-color: rgba(199,239,0,0.8);
+    border:1px solid rgba(199,239,0,0.8);
+    font-size: 25px;
+    padding:5px 10px;
+    position: fixed;
+    right:12px ;
+    bottom: 40px;
+    color:white;
+    
+}
+.sec3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color:#e0e0e0;
+    margin-top: 30px;
+   
+    
+}
+.a5{
+    text-decoration: none;
+    color:white;
+}
+
+ 
